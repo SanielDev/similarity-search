@@ -92,4 +92,5 @@ Query: 'Python developer with web development experience'
 ## 🙌 Acknowledgements
 - Chroma DB team for the blazing-fast vector store
 - Sentence-Transformers by UKP Lab
+- IBM Agentic AI Certification
 - Example employees are fictitious; any resemblance to real persons is coincidental.
